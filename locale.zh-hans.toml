@@ -1,0 +1,12 @@
+begin = "现在我们开始决定"
+
+item_choice = "选项"
+item_possibility = "概率"
+
+prompt_is_predecide = "是否要钦定这个选项？"
+prompt_choice_number = "请输入钦定下来的选项的编号："
+
+msg_choice = "你选择了"
+msg_god_choice = "你会想选择"
+
+err_unable_to_read = "无法从命令行读取"

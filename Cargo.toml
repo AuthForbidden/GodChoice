@@ -1,0 +1,11 @@
+[package]
+name = "god_choice"
+version = "0.1.0"
+authors = ["AuthForbidden"]
+edition = "2018"
+
+[dependencies]
+toml = "0.5"
+rand = "0.8"
+serde = "1.0"
+serde_derive = "1.0"

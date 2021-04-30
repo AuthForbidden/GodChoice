@@ -1,0 +1,12 @@
+begin = "Now let's decide"
+
+item_choice = "Option"
+item_possibility = "Possibility"
+
+prompt_is_predecide = "Have you made your decision?"
+prompt_choice_number = "Number of your decision"
+
+msg_choice = "You have chosen"
+msg_god_choice = "GodChoice chose"
+
+err_unable_to_read = "Unable to read from command line"

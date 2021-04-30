@@ -1,0 +1,23 @@
+env = "cli"
+locale = "en"
+name = "Random Value"
+
+[[choices]]
+name = "A"
+poss = 0.9
+[[choices.subchoices]]
+name = "A1"
+poss = 0.5
+[[choices.subchoices]]
+name = "A2"
+poss = 0.5
+
+[[choices]]
+name = "B"
+poss = 0.1
+[[choices.subchoices]]
+name = "B1"
+poss = 0.5
+[[choices.subchoices]]
+name = "B2"
+poss = 0.5
